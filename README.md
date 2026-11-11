@@ -1,4 +1,4 @@
-## Hi there 👋 Just another guy trying to learn Java
+## Virginia Tech Computer Engineering Student - GO HOKIES
 
 <!--
 **Itsmeowtain/Itsmeowtain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
